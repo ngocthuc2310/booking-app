@@ -1,0 +1,11 @@
+.mid {
+  background-color: #003580;
+  color: white;
+  padding: 10px;
+  height: 210px;
+  /* position: relative; */
+}
+
+.mid > * {
+  margin: 8px;
+}

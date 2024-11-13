@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hà Nội",
+    "subText": "123 properties",
+    "image": "./images/haNoi.jpg"
+  },
+  {
+    "name": "Hồ Chí Minh",
+    "subText": "533 properties",
+    "image": "./images/hCM.jpg"
+  },
+  {
+    "name": "Đà Nẵng",
+    "subText": "532 properties",
+    "image": "./images/daNang.jpg"
+  }
+]

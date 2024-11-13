@@ -1,0 +1,68 @@
+.booking {
+  width: 1120px;
+  margin: 0 auto;
+  padding: 15px;
+}
+.date {
+  display: flex;
+  gap: 5px;
+}
+.booking .user {
+  margin: 10px;
+  width: 100%;
+}
+.booking form {
+  width: 100%;
+  display: inline-block;
+}
+.dt {
+  margin: 10px;
+}
+.user input {
+  display: block;
+  border: 1px solid #4b4242;
+  width: 100%;
+  height: 40px;
+}
+.user > div {
+  margin: 15px 0 5px 0;
+}
+.select {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  padding: 15px;
+  gap: 5px;
+}
+.select > div {
+  width: 48%;
+  display: flex;
+  gap: 6px;
+  padding: 10px 20px;
+}
+.check {
+  text-align: center;
+  width: 35px;
+}
+.room {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 50%;
+  gap: 6px;
+}
+.booking .buttontt {
+  background-color: #0071c2;
+  padding: 12px 17px;
+  margin: 0 150px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.sophong {
+  width: 60px;
+}
+.sophong input {
+  width: 60px;
+}
+.room input {
+  width: 40px;
+}

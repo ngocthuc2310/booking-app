@@ -1,0 +1,43 @@
+.form {
+  background-color: #003580;
+}
+
+.formDK {
+  width: 1000px;
+  background-color: #003580;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.formDK * {
+  text-align: center;
+}
+
+.formDK > * {
+  margin: 12px;
+}
+
+.formDK h1 {
+  color: white;
+  font-weight: bold;
+}
+
+.formDK p {
+  color: white;
+}
+
+.formDK input {
+  width: 300px;
+  height: 45px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.group {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.group > * {
+  margin: 8px;
+}

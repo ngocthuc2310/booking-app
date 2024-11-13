@@ -1,0 +1,6 @@
+.city {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 17px;
+  margin: 10px 0;
+}

@@ -1,0 +1,22 @@
+.trstion {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+.trstion table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  width: 12.5%;
+}
+.trstion tr:nth-of-type(odd) {
+  background-color: #b6e0eb;
+}
+.trstion tr:first-of-type {
+  background-color: #32a4c1;
+}
+.trstion td,
+.trstion th {
+  padding: 8px 0;
+}

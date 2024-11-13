@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+.body-detail {
+  width: 1100px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.detail-gr1 {
+  overflow: auto;
+}
+.text1 {
+  float: left;
+  width: 800px;
+}
+.detail-gr1 button {
+  float: right;
+}
+
+.div-duoi {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div-duoi * {
+  margin: 17px 0;
+}
+
+.text-div-duoi {
+  width: 760px;
+}
+
+.blue-card {
+  width: 300px;
+  padding: 15px;
+  background-color: #ceedf7;
+}
+
+.text1 > * {
+  margin: 7px 0;
+}

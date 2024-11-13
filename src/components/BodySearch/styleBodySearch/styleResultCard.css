@@ -1,0 +1,59 @@
+.result-card {
+  float: left;
+  width: 765px;
+  height: 230px;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  border: 2px solid #d3d2d2;
+  border-radius: 10px;
+}
+
+.result-card img {
+  height: 100%;
+  aspect-ratio: 3/4;
+  border-radius: 0;
+}
+
+.gr2 {
+  position: relative;
+  width: 151px;
+  text-align: right;
+}
+
+.gr1 {
+  width: 140px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.sp1 {
+  float: left;
+  font-weight: bold;
+}
+
+.sp2 {
+  float: right;
+  padding: 6px;
+  background-color: #003580;
+  color: white;
+}
+
+.small-card {
+  padding: 4px;
+  background-color: green;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+}
+
+.text-tt {
+  width: 403px;
+}
+
+.text-tt > * {
+  margin: 3px;
+}

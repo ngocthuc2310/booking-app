@@ -1,0 +1,17 @@
+.type-card {
+  width: 100%;
+  aspect-ratio: 4/5;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+img {
+  width: 100%;
+  aspect-ratio: 5/4;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.text {
+  text-align: left;
+}
